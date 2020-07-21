@@ -1,6 +1,8 @@
 # Docker - Flask API Framework
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-yellow.svg)](https://github.com/leomaurodesenv/docker-flash-api)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c540ed1976e1487eb6961ab0f057befc)](https://www.codacy.com/manual/leomaurodesenv/docker-flash-api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leomaurodesenv/docker-flash-api&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/leomaurodesenv/docker-flash-api.svg?branch=master)](https://travis-ci.com/leomaurodesenv/docker-flash-api)
    
 This repository is the basis for a fast, efficient and scalable python API environment.   
 This framework presents a continuous integration test using [Travis CI](https://travis-ci.com/), a [Docker](https://www.docker.com/) image to deploy your project, and, finally, a simple API Restful implementation to allow security access for everyone; facilitating the test, development and deployment for production.  
